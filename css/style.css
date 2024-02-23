@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffe6ea;
+    color: #6b1921;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    margin: 20px 0;
+    text-indent: 50px;
+}
